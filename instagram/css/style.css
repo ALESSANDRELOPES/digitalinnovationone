@@ -70,6 +70,22 @@ body{
     overflow: hidden;
     
 }
+.imagem-instagram-logo{
+    width: 60%;
+    height: 100px;
+    overflow: hidden;
+    border-radius: 50%;
+    
+}
+
+.input{
+    border-radius: 50px;
+    margin-top: 5px;
+}
+
+p{
+    color: blue;
+}
 
 
 .container-grupo:nth-child(1) {
@@ -78,7 +94,7 @@ body{
 
 .playstore{
     display: flex;
-    align-items: center;
+   
     justify-content: center;
     flex-direction: column;
     width: 100px;
